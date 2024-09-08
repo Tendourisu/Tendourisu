@@ -1,6 +1,5 @@
 -  Hi, I’m @Tendourisu
 -  Tendourisu, not TendouArisu because TendouArisu has been used :(
--  I love TendouArisu
 
 <!---
 Tendourisu/Tendourisu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
